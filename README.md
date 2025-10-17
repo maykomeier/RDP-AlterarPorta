@@ -1,4 +1,4 @@
-Aplicativo simples em Delphi para alterar a porta do Acesso TS em servidores e estações.
+Aplicativo simples e portátil em Delphi para alterar a porta do Acesso TS em servidores e estações.
 
 Ele altera a porta e adiciona uma exeção no firewall do Windows.
 
